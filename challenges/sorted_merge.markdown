@@ -18,3 +18,7 @@ Imagine we have three sets:
 * c: `[6,7,8]`
 
 Then the merge should produce `[1,2,3,4,5,6,7,8,9]`.
+
+## Limitations
+
+The challenge here is in sorting, so don't use any built-in sorting method.
